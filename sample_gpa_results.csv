@@ -1,0 +1,32 @@
+Semester,Course,Subject,Grade,Credits,GPA Points
+"Semester 1","Vector Analysis","Mathematics","A",2.5,4
+"Semester 1","Introductory Stat","Mathematics","A",1.25,4
+"Semester 1","DE","Mathematics","A",1.25,4
+"Semester 1","Classical I","Applied Mathematics","A",2.5,4
+"Semester 1","MFCS","Applied Mathematics","A",2.5,4
+"Semester 1","Physics I","Physics","A",4,4
+"Semester 2","Algebra","Mathematics","A",2.5,4
+"Semester 2","Calculus","Mathematics","A",2.5,4
+"Semester 2","Modeling I","Applied Mathematics","A",2.5,4
+"Semester 2","Classical II","Applied Mathematics","A",2.5,4
+"Semester 2","Physics II","Physics","A",4,4
+"Semester 2","Physics Practicals I","Physics","A",2,4
+"Semester 3","Linear Algebra","Mathematics","A",2.5,4
+"Semester 3","Real Analysis I","Mathematics","A",2.5,4
+"Semester 3","Classical III","Applied Mathematics","A",2.5,4
+"Semester 3","Computational Maths","Applied Mathematics","A",2.5,4
+"Semester 3","Physics III","Physics","A",4,4
+"Semester 4","Real Analysis II","Mathematics","A",1.25,4
+"Semester 4","Geometry","Mathematics","A",1.25,4
+"Semester 4","Mathematical Stat I","Mathematics","A",2.5,4
+"Semester 4","Modeling II","Applied Mathematics","A",2.5,4
+"Semester 4","Applied Stat I","Applied Mathematics","A",2.5,4
+"Semester 4","Physics IV","Physics","A",4,4
+"Semester 4","Physics Practicals II","Physics","A",2,4
+"Semester 5","Group Theory","Mathematics","A",2.5,4
+"Semester 5","Math Stat II","Mathematics","A",2.5,4
+"Semester 5","Applied Stat II","Applied Mathematics","A",2.5,4
+"Semester 5","Modeling III","Applied Mathematics","A",2.5,4
+"Semester 5","Physics V","Physics","A",4,4
+"Semester 5","Physics Practicals III","Physics","A",1,4
+"OVERALL","OVERALL GPA","","",75,4
